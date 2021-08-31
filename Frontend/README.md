@@ -74,6 +74,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ##################### Project Screenshots ###############################
 
-
+Login Page
 
 ![Screenshot 2021-08-31 at 9 02 53 AM](https://user-images.githubusercontent.com/41435065/131437433-80a64f02-9287-4755-baec-79cc92c715ed.png)
+
+
+SignUp page
+
+![Screenshot 2021-08-31 at 9 03 58 AM](https://user-images.githubusercontent.com/41435065/131437511-788a1fe4-cd1d-4a62-aa09-73370afa36d1.png)
+
+
+Company DashBoard
+
+![Screenshot 2021-08-31 at 9 04 44 AM](https://user-images.githubusercontent.com/41435065/131437580-80a2d3b3-dce8-4eef-a55f-761edc802f30.png)
+
+
+Add new Company
+
+![Screenshot 2021-08-31 at 9 05 33 AM](https://user-images.githubusercontent.com/41435065/131437649-8f813b3a-bb3c-4b42-891c-aa01aa1dccf5.png)
+
+Edit Company
+
+![Screenshot 2021-08-31 at 9 06 29 AM](https://user-images.githubusercontent.com/41435065/131437717-b81dc97a-1035-4b7d-a8a8-9dd03421aae4.png)
